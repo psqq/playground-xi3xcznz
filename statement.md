@@ -15,6 +15,7 @@ s = 'Hello World!!!'
 # Code 2
 
 ```python runnable
+s = 'Hello World!!!'
 print(s)
 ```
 
